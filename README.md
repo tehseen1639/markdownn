@@ -8,7 +8,7 @@
 ## mathematical formula
 *vector dot product*
 $$
-\mathbf{a} \cdot \mathbf{b} = |a| |b| \cos(\theta)
+- \mathbf{a} \cdot \mathbf{b} = |a| |b| \cos(\theta)
 $$
 - [x] **a** and **b** are the vectors.
 - [x] **|a|** and **|b|** are the magnitudes of the vectors.
@@ -35,9 +35,9 @@ print(dot_product(a, b))
 ## algorithm comparison table
 | Algorithm | Time Complexity | Space Complexity | Description |
 | --- | --- | --- | --- |
-| + Dot Product | O(n) | O(1) | Calculate the dot product of two vectors
-| + Vector Magnitude | O(n) | O(1) | Calculate the magnitude of a vector
-| + Vector Angle | O(n) | O(1) | Calculate the angle between two vectors
+|  Dot Product | O(n) | O(1) | Calculate the dot product of two vectors
+|  Vector Magnitude | O(n) | O(1) | Calculate the magnitude of a vector
+|  Vector Angle | O(n) | O(1) | Calculate the angle between two vectors
 ## footnote
 To know more about vector dot product.[^5]
 
