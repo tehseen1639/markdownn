@@ -10,9 +10,9 @@
 $$
 \mathbf{a} \cdot \mathbf{b} = |a| |b| \cos(\theta)
 $$
-- **a** and **b** are the vectors.
-- **|a|** and **|b|** are the magnitudes of the vectors.
-- **θ** is the angle between the two vectors.
+- [x] **a** and **b** are the vectors.
+- [x] **|a|** and **|b|** are the magnitudes of the vectors.
+- [x]**θ** is the angle between the two vectors.
 > dot product can be used to find angle between vectors.
 > [!NOTE]  
 > check angles carefully and vector directions.
